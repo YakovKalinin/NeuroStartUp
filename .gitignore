@@ -3,3 +3,6 @@
 *._backup
 *.DS_Store
 Thumbs.db
+*_old
+*.html_old
+*.png_backup
